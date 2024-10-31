@@ -1,6 +1,4 @@
-# Text2Speech
-
-This project enables text-to-speech functionality, allowing you to select text to be read aloud using speech synthesis. It also supports extracting selected text and highlighting it with text annotations.
+# Show Annotation text in Side Bar instead of Annoation Type.
 
 ## Prerequisites
 
@@ -11,8 +9,8 @@ This project enables text-to-speech functionality, allowing you to select text t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Narashiman-K/Text2Speech.git
-    cd Text2Speech
+    git clone https://github.com/Narashiman-K/SidebarShowAnnotationTextNotType.git
+    cd SidebarShowAnnotationTextNotType
     ```
 
 2. Install the project dependencies:
@@ -49,13 +47,9 @@ Please ensure you have signed our CLA so that we can accept your contributions.
 
 ## Support, Issues and License Questions
 
-PSPDFKit offers support for customers with an active SDK license via [PSPDFKit Support](https://pspdfkit.com/support/request/).
+PSPDFKit offers support for customers with an active SDK license via [PSPDFKit Support](https://Nutrient.io/support/request/).
 
-Are you [evaluating our SDK](https://pspdfkit.com/try/)? That's great, we're happy to help out! To make sure this is fast, please use a work email and have someone from your company fill out our [sales form](https://pspdfkit.com/sales/).
-
-## About
-
-This project allows selecting text to start reading using speech synthesis, extracting the selected text, and highlighting the selected text using highlight text annotation.
+Are you [evaluating our SDK](https://nutrient.io/try/)? That's great, we're happy to help out! To make sure this is fast, please use a work email and have someone from your company fill out our [sales form](https://nutrient.io/sales/).
 
 ## Author
 
